@@ -1,6 +1,6 @@
 # Creator System
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Built by Matty Mo Studio](https://img.shields.io/badge/built%20by-Matty%20Mo%20Studio-ff3d8a.svg)](https://creator-system.vercel.app)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Built by Tyler Oliveira](https://img.shields.io/badge/built%20by-Matty%20Mo%20Studio-ff3d8a.svg)](https://creator-system.vercel.app)
 
 > **Personal Intelligence System for creative professionals.** Open-source, MIT-licensed, runs locally on Obsidian + Claude Code. Vault scaffolding + 14 AI skills + 6 ingestion tools that turn your scattered archive into a queryable second brain.
 
@@ -15,7 +15,7 @@ Not a notes app. A layered system that archives source material, builds structur
 ### 1. Get the kit
 
 ```bash
-git clone https://github.com/mattymostudio/creator-system.git
+git clone https://github.com/Tyler-Oliveira/CreativeIntelligence.git
 cd creator-system
 ```
 
@@ -134,7 +134,7 @@ The system works entirely by hand. Open `vault/00_HOME/Start Here.md` in Obsidia
 
 ## License
 
-MIT — see [`LICENSE`](LICENSE). Attribution to Matty Mo Studio appreciated, not required.
+MIT — see [`LICENSE`](LICENSE). 
 
 ---
 
